@@ -1,0 +1,4 @@
+print("hola mundo")
+print("que hay de nuevo viejo")
+print("como tas")
+print("xd")
